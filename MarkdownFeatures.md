@@ -4,34 +4,39 @@ There are many different features one can do in a markdown file, many common thi
 
 While there are other featueres that can be added to differnt markdown services this will only cover the basics that are commonly offered on all markdown services.
 
--Headings
+- Headings
 Headings are used for titles of pages or tiles of a differnt section, there are diffent levels of heading that can be used within a page. The # denotes a heading, adding more than one # can be used to get differnt levels of heading with one # being the largest. 
 > # Heading
 > "# Heading"
 > ## Heading
 > "## Heading"
 
--Bolding
+- Bolding
 Bolding certian words or sentences can help emphisize the importance of those words and help direct a readers attention down a page. It can be done with two * before and after the word or phrse you with to be bold.
 >You can use **bold** words to help **attract attention** to certian parts of a sentence.
 >
 >"You can use **bold** words to help **attract attention** to certian parts of a sentence."
 
--Italics
+- Italics
 Italics can be used for many things, like quotes or simply putting emphisis on words like bold is, it is done by using only one * before and after the words or phrase you want to be itiliczed.
 >You can use *italic* words to help *attract attention* to certian parts of a sentence.
 >
 >"You can use *italic* words to help *attract attention* to certian parts of a sentence."
 
--Lists
+- Lists
+There are two styles of lists to use, ordered lists using numbers or unordered lists that use bullets, you can additonally use any sort of list you like while creating a page but these two format the page differntly than creating your own listing option would.
+>- Unordered
+>1. Ordered
+>"- Unordered"
+>"1. Ordered"
 
--Block Quotes
+- Block Quotes
 
--Code Blocks
+- Code Blocks
 
--Image Linking
+- Image Linking
 
--Dividing Lines
+- Dividing Lines
 
 
 These are most of the basic features offered on markdown pages, hyperlinks are also possible but will be covered in the next section. 
