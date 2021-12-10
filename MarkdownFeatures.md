@@ -12,8 +12,16 @@ Headings are used for titles of pages or tiles of a differnt section, there are 
 > "## Heading"
 
 -Bolding
+Bolding certian words or sentences can help emphisize the importance of those words and help direct a readers attention down a page. It can be done with two * before and after the word or phrse you with to be bold.
+>You can use **bold** words to help **attract attention** to certian parts of a sentence.
+>
+>"You can use **bold** words to help **attract attention** to certian parts of a sentence."
 
 -Italics
+Italics can be used for many things, like quotes or simply putting emphisis on words like bold is, it is done by using only one * before and after the words or phrase you want to be itiliczed.
+>You can use *italic* words to help *attract attention* to certian parts of a sentence.
+>
+>"You can use *italic* words to help *attract attention* to certian parts of a sentence."
 
 -Lists
 
