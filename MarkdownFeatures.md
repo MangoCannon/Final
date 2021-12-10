@@ -64,3 +64,5 @@ Dividing lines can be used to start a new topic without the use of a header, it 
 
 These are most of the basic features offered on markdown pages, hyperlinks are also possible but will be covered in the next section. 
 
+[Index](https://github.com/MangoCannon/Final)
+
