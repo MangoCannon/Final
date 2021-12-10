@@ -5,12 +5,20 @@ There are many different features one can do in a markdown file, many common thi
 While there are other featueres that can be added to differnt markdown services this will only cover the basics that are commonly offered on all markdown services.
 
 Headings
-Bolding
+> Headings are used for titles of pages or tiles of a differnt section, there are diffent levels of heading that can be used within a page. The # denotes a heading, adding more than one # can be used to get differnt levels of heading with one # being the largest. 
+
 Italics
+
 Lists
+
 Block Quotes
+
 Code Blocks
+
 Image Linking
+
 Dividing Lines
 
-These are most of the basic features offered on markdown pages 
+
+These are most of the basic features offered on markdown pages, hyperlinks are also possible but will be covered in the next section. 
+
